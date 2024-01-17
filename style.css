@@ -103,6 +103,10 @@ section {
 .parallax-home img#moon{
     mix-blend-mode: screen;
 }
+.about img#desert-moon{
+    mix-blend-mode: screen;
+    /* z-index: -100; */
+}
 /* about */
 .about{
     position: relative;
@@ -147,6 +151,7 @@ section {
     background-color: #1d002c;
     color: #12f7ff;
 }
+
 
 /* products */
 .products{
