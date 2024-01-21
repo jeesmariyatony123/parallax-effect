@@ -53,6 +53,7 @@ ul.navlist {
 
 .navlist li {
     margin-left: 1rem;
+    list-style: none;
 }
 
 .navlist li a {
@@ -64,6 +65,7 @@ ul.navlist {
     border: 2px solid #12f7ff;
     border-radius: 25px;
     transition: all .3s ease
+    
 }
 
 .navlist li a:hover,
